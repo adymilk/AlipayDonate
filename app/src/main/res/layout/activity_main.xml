@@ -36,4 +36,10 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="打开 付款" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="加群 交流" />
 </LinearLayout>
